@@ -1,2 +1,7 @@
-# wakizashi
-[![Build Status](https://travis-ci.org/nexelem/wakizashi.svg?branch=develop)](https://travis-ci.org/nexelem/wakizashi.svg)
+# wakizashi [![Build Status](https://travis-ci.org/nexelem/wakizashi.svg?branch=develop)](https://travis-ci.org/nexelem/wakizashi.svg)
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nexelem/wakizashi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
+
+
